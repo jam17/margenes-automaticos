@@ -1,0 +1,35 @@
+div {
+	padding-right: 500px;
+	display: inline-block;
+}
+
+
+.caja1, .caja2{
+
+	border: 10px solid yellow;
+}
+.caja1{
+
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top:30px;
+	padding-bottom: 30px;
+	margin-right: 500px;
+	width: 200px;
+	text-align: center;
+	height: 200px;
+
+}
+
+.caja2
+ {
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top:30px;
+	padding-bottom: 30px;
+	margin-left: 500px;
+    width: 200px;
+    text-align: left;
+    height: 200px;
+}
+
